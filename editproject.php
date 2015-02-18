@@ -54,7 +54,7 @@ if ($action == "thumbnail") {
 	<title>Project toevoegen of wijzigen | E2R-architecten</title>
 	<link rel="stylesheet" type="text/css" href="data/style-main.css" />
 	<!--[if lt IE 9]><script src="data/js-html5shiv.js"></script><![endif]-->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	<script src="//tinymce.cachefly.net/4.1/tinymce.min.js"></script><script>tinymce.init({selector:'textarea'});</script>
 	<script src="data/js-upload.js"></script>
 </head>
@@ -172,7 +172,7 @@ if ($action == "thumbnail") {
 	
 	<footer class="cf">
 		<p class="al">E2R architecten - Hoogstraat 18a - 1861 Wolvertem/Meise - tel. 02/269.25.48</p>
-		<p class="ar">Design <a href="mailto:buggenhout.wouter@gmail.com">Wouter B</a> | Code <a href="https://bramvanaken.be">Bram VA</a> | Foto's <a href="mailto:marjan.k.photography@gmail.com">Marjan K</a></p>
+		<p class="ar">Design <a href="mailto:buggenhout.wouter@gmail.com">Wouter B</a> | Code <a href="https://bramvanaken.be/contact.php">Bram VA</a> | Foto's <a href="mailto:marjan.k.photography@gmail.com">Marjan K</a></p>
 	</footer>
 </body>
 </html>

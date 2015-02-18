@@ -95,10 +95,10 @@ if ($id != null) {
 
 	<footer class="cf">
 		<p class="al">E2R architecten - Hoogstraat 18a - 1861 Wolvertem/Meise - tel. 02/269.25.48</p>
-		<p class="ar">Design <a href="mailto:buggenhout.wouter@gmail.com">Wouter B</a> | Code <a href="https://bramvanaken.be">Bram VA</a> | Foto's <a href="mailto:marjan.k.photography@gmail.com">Marjan K</a></p>
+		<p class="ar">Design <a href="mailto:buggenhout.wouter@gmail.com">Wouter B</a> | Code <a href="https://bramvanaken.be/contact.php">Bram VA</a> | Foto's <a href="mailto:marjan.k.photography@gmail.com">Marjan K</a></p>
 	</footer>
 
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	<script>$(document).ready(function(){var a=$("html, body");$("a").click(function(){var b=$.attr(this,"href");a.animate({scrollTop:$(b).offset().top},500,function(){window.location.hash=b});return false})});</script>
 	<script src="data/js-slides.js"></script><script>$(function(){$('#slides').slidesjs();});</script>
 </body>

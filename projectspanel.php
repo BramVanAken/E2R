@@ -17,7 +17,7 @@ if ($id != null) {
 	<link rel="stylesheet" type="text/css" href="data/style-main.css" />
 	<!--[if lt IE 9]><script src="data/js-html5shiv.js"></script><![endif]-->
 </head>
-<body>
+<body>ss
 	<header class="cf">
 		<h1><a href="control.php">E2R-architecten</a></h1>
 		<nav>
@@ -199,10 +199,10 @@ if ($id != null) {
 
 	<footer class="cf">
 		<p class="al">E2R architecten - Hoogstraat 18a - 1861 Wolvertem/Meise - tel. 02/269.25.48</p>
-		<p class="ar">Design <a href="mailto:buggenhout.wouter@gmail.com">Wouter B</a> | Code <a href="https://bramvanaken.be">Bram VA</a> | Foto's <a href="mailto:marjan.k.photography@gmail.com">Marjan K</a></p>
+		<p class="ar">Design <a href="mailto:buggenhout.wouter@gmail.com">Wouter B</a> | Code <a href="https://bramvanaken.be/contact.php">Bram VA</a> | Foto's <a href="mailto:marjan.k.photography@gmail.com">Marjan K</a></p>
 	</footer>
 	
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	<script>$(document).ready(function(){var a=$("html, body");$("a").click(function(){var b=$.attr(this,"href");a.animate({scrollTop:$(b).offset().top},500,function(){window.location.hash=b});return false})});</script>
 </body>
 </html>
