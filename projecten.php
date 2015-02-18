@@ -84,7 +84,7 @@
 		<p class="ar">Design <a href="mailto:buggenhout.wouter@gmail.com">Wouter B</a> | Code <a href="https://bramvanaken.be">Bram VA</a> | Foto's <a href="mailto:marjan.k.photography@gmail.com">Marjan K</a></p>
 	</footer>
 
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 	<script>$(document).ready(function(){var a=$("html, body");$("a").click(function(){var b=$.attr(this,"href");a.animate({scrollTop:$(b).offset().top},500,function(){window.location.hash=b});return false})});</script>
 	<!--[if lt IE 9]><script>$(document).ready(function() {$(".image:nth-child(even)").addClass("image-even");$(".image:nth-child(odd)").addClass("image-odd");});</script><![endif]-->
 </body>
