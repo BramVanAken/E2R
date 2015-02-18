@@ -1,3 +1,4 @@
+# databases, database management, pictures and old site ignored
 oud/
 images/
 sqlite/
@@ -7,4 +8,5 @@ sitemap.txt
 phpliteadmin.config.php
 phpliteadmin.php
 data/style-phpliteadmin.css
+# upload script was purchased, so ignored
 upload.php
