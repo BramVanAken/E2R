@@ -82,6 +82,7 @@
 			    <dt>Onderwerp:</dt>
 			    <dd>
 			      <select name="subject">
+					<option value="Algemeen">Algemeen</option>
 					<option value="Architectuur">Architectuur</option>
 					<option value="EPC">EPC</option>
 					<option value="Expertise">Expertise</option>
