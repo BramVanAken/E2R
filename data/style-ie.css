@@ -1,0 +1,4 @@
+section.ls{margin-left:20px}
+section.ls:first-child{margin-left:0}
+.image-odd{float:left}
+.image-even{float:right}
