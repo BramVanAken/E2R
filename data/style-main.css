@@ -12,6 +12,7 @@ h2{font-size:17px}
 h3{font-size:15px}
 div.proj-tekst h3{margin:10px 0;font-size:16px}
 article,ul,section{background:#fff;margin-bottom:20px}
+section,footer,.container,.proj-tekst,.imagebuttons{box-shadow: 0 5px 2px -2px rgba(100,100,100,0.1)}
 section{background:#fff;margin:0 auto;width:910px;padding:20px;margin-bottom:20px}
 section.l{float:left;width:425px}
 section.r{float:right;width:425px}
