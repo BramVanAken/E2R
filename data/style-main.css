@@ -25,7 +25,7 @@ ol{list-style-type:disc;list-style-position:inside}
 ol li:not(:last-child){margin-bottom:5px}
 iframe{border:0}
 #upload_area{margin:20px 0 0 0}
-.fixedheight{min-height:472px}
+.fixedheight{min-height:450px}
 .column:not(:last-child){padding-bottom:15px}
 .textmargin{margin-bottom:25px}
 .error{color:#ed1c24}

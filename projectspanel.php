@@ -18,7 +18,7 @@ if ($id != null) {
 	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto" />
 	<!--[if lt IE 9]><script src="data/js-html5shiv.js"></script><![endif]-->
 </head>
-<body>ss
+<body>
 	<header class="cf">
 		<h1><a href="control.php">E2R-architecten</a></h1>
 		<nav>
