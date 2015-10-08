@@ -4,9 +4,8 @@ img{border:0}
 .cf2:after{display:inline-block}
 a:link,a:visited,ul a:link,ul a:visited{color:#5b5a5a}
 a:hover,a:active{color:#33b5e5}
-@font-face{font-family:'R';src:url('font-R.eot');src:url('font-R.eot?#iefix') format('embedded-opentype'),url('font-R.woff') format('woff'),url('R.ttf') format('truetype');font-weight:normal;font-style:normal}
 header{height:120px}
-body{position:relative;width:950px;margin:0 auto;background:url(img-bg.gif);font:13px 'R';color:#5b5a5a}
+body{position:relative;width:950px;margin:0 auto;background:url(img-bg.gif);font-size:13px;font-family:'Roboto',sans-serif;color:#5b5a5a}
 h1 a{position:relative;margin-top:25px;display:block;width:235px;height:80px;text-indent:100%;white-space:nowrap;overflow:hidden;background:url(img-logo.png) no-repeat;float:left}
 h2{font-size:17px}
 h3{font-size:15px}
@@ -26,7 +25,7 @@ ol{list-style-type:disc;list-style-position:inside}
 ol li:not(:last-child){margin-bottom:5px}
 iframe{border:0}
 #upload_area{margin:20px 0 0 0}
-.fixedheight{min-height:472px}
+.fixedheight{min-height:450px}
 .column:not(:last-child){padding-bottom:15px}
 .textmargin{margin-bottom:25px}
 .error{color:#ed1c24}

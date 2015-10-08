@@ -86,6 +86,7 @@ if (($_POST) && ($action == "editpassword")) {
 	<meta charset="UTF-8">
 	<title>Account | E2R-architecten</title>
 	<link rel="stylesheet" type="text/css" href="data/style-main.css" />
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto" />
 	<!--[if lt IE 9]><script src="data/js-html5shiv.js"></script><![endif]-->
 </head>
 <body>
@@ -177,7 +178,7 @@ if (($_POST) && ($action == "editpassword")) {
 
 	<footer class="cf">
 		<p class="al">E2R architecten - Hoogstraat 18a - 1861 Wolvertem/Meise - tel. 02/269.25.48</p>
-		<p class="ar">Design <a href="mailto:buggenhout.wouter@gmail.com">Wouter B</a> | Code <a href="https://bramvanaken.be/contact.php">Bram VA</a> | Foto's <a href="mailto:marjan.k.photography@gmail.com">Marjan K</a></p>
+		<p class="ar">Design <a href="mailto:buggenhout.wouter@gmail.com">Wouter B</a> | Code <a href="https://bramvanaken.be/#contact">Bram VA</a> | Foto's <a href="mailto:marjan.k.photography@gmail.com">Marjan K</a></p>
 	</footer>
 </body>
 </html>
