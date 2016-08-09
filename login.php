@@ -82,7 +82,7 @@ if ($_POST) {
 	</section>
 
 	<footer class="cf">
-		<p class="al">E2R architecten - Hoogstraat 18a - 1861 Wolvertem/Meise - tel. 02/269.25.48</p>
+		<p class="al">E2R architecten - Hoogstraat 33/1 - 1861 Wolvertem - tel. 02/311.55.38</p>
 		<p class="ar">Design <a href="mailto:buggenhout.wouter@gmail.com">Wouter B</a> | Code <a href="https://bramvanaken.be/#contact">Bram VA</a> | Foto's <a href="mailto:marjan.k.photography@gmail.com">Marjan K</a></p>
 	</footer>
 </body>

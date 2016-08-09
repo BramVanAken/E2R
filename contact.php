@@ -36,9 +36,9 @@
 			<p>&nbsp;</p>
 			<div class="al adres cf">
 				<p>E2R-architecten bvba</p>
-				<p>Sint-Jozefstraat 10 A001</p>
-				<p>1840 Londerzeel</p>
-				<p>Tel. 0497/72.44.72</p>
+				<p>Hoogstraat 33/1</p>
+				<p>1861 Wolvertem</p>
+				<p>Tel. 02/311.55.38</p>
 				<p><a href="mailto:info@e2r-architecten.be">info@e2r-architecten.be</a></p>
 			</div>
 			<div class="ar adres cf">
@@ -106,13 +106,13 @@
 
 		<section class="r fixedheight">
 			<h2 class="textmargin">Vind Ons</h2>
-			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2513.4709159204785!2d4.3103013500000005!3d50.95199705!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3ea17a67fd5f1%3A0xe7caa14bb8eac4fd!2sHoogstraat+18!5e0!3m2!1sen!2s!4v1393069299656" width="415" height="350"></iframe>			
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2513.457248234815!2d4.3083814161234!3d50.95224977954778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3ea17959e8077%3A0xe723de6d4d0ec9a8!2sHoogstraat+33%2C+1861+Meise%2C+Belgium!5e0!3m2!1sen!2sus!4v1470761825127" width="415" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>			
 			<a href="https://www.google.com/maps/place/Hoogstraat+18/@50.9519971,4.3103014,17z/data=!3m1!4b1!4m2!3m1!1s0x47c3ea17a67fd5f1:0xe7caa14bb8eac4fd" class="bigbutton">Ga naar Google Maps</a>
 		</section>
 	</div>
 	
 	<footer class="cf">
-		<p class="al">E2R architecten - Hoogstraat 18a - 1861 Wolvertem/Meise - tel. 02/269.25.48</p>
+		<p class="al">E2R architecten - Hoogstraat 33/1 - 1861 Wolvertem - tel. 02/311.55.38</p>
 		<p class="ar">Design <a href="mailto:buggenhout.wouter@gmail.com">Wouter B</a> | Code <a href="https://bramvanaken.be/#contact">Bram VA</a> | Foto's <a href="mailto:marjan.k.photography@gmail.com">Marjan K</a></p>
 	</footer>
 </body>

@@ -55,8 +55,8 @@ if ($action == "thumbnail") {
 	<link rel="stylesheet" type="text/css" href="data/style-main.css" />
 	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto" />
 	<!--[if lt IE 9]><script src="data/js-html5shiv.js"></script><![endif]-->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-	<script src="//tinymce.cachefly.net/4.2/tinymce.min.js"></script><script>tinymce.init({selector:'textarea'});</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="https://cdn.tinymce.com/4/tinymce.min.js"></script><script>tinymce.init({selector:'textarea'});</script>
 	<script src="data/js-upload.js"></script>
 </head>
 <body>
@@ -172,7 +172,7 @@ if ($action == "thumbnail") {
 
 	
 	<footer class="cf">
-		<p class="al">E2R architecten - Hoogstraat 18a - 1861 Wolvertem/Meise - tel. 02/269.25.48</p>
+		<p class="al">E2R architecten - Hoogstraat 33/1 - 1861 Wolvertem - tel. 02/311.55.38</p>
 		<p class="ar">Design <a href="mailto:buggenhout.wouter@gmail.com">Wouter B</a> | Code <a href="https://bramvanaken.be/#contact">Bram VA</a> | Foto's <a href="mailto:marjan.k.photography@gmail.com">Marjan K</a></p>
 	</footer>
 </body>
